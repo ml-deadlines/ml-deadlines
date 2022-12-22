@@ -1,5 +1,36 @@
 ---
-
+- title: NeurIPS
+  year: 2023
+  id: neurips23
+  link: https://neurips.cc/Conferences/2023/
+  deadline: '2023-05-19 13:00:00'
+  abstract_deadline: '2023-05-16 13:00:00'
+  timezone: America/Los_Angeles
+  hindex: 245
+  sub: ML
+  
+- title: ALT
+  year: 2024
+  id: alt24
+  link: http://alt2024.algorithmiclearningtheory.org/
+  deadline: '2013-09-20 16:59:59'
+  timezone: America/New_York
+  hindex: 15
+  sub: ML
+  
+- title: COLT
+  year: 2023
+  id: colt23
+  link: http://www.learningtheory.org/colt2023/
+  deadline: '2023-02-10 16:00:00'
+  timezone: America/Los_Angeles
+  place: Bangalore, India
+  date: July 12-15, 2023
+  start: 2023-07-12
+  end: 2023-07-15
+  hindex: 48
+  sub: ML
+  
 - title: UAI
   year: 2023
   id: uai23
