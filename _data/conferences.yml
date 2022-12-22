@@ -25,7 +25,7 @@
   hindex: 204
   sub: ML
   
-  - title: AISTATS
+- title: AISTATS
   year: 2023
   id: aistats23
   link: https://www.aistats.org/aistats2023/
@@ -39,7 +39,7 @@
   sub: ML
   note: Mandatory abstract deadline on Oct 6, 2022. More info <a href='https://aistats.org/aistats2023/call-for-papers.html'>here</a>.
   
-  - title: ICLR
+- title: ICLR
   year: 2023
   id: iclr23
   link: https://iclr.cc/
@@ -54,7 +54,7 @@
   sub: ML
   note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
   
-  - title: AAAI
+- title: AAAI
   year: 2023
   id: aaai23
   full_name: AAAI Conference on Artificial Intelligence
@@ -69,7 +69,7 @@
   hindex: 95
   sub: ML
   
-  - title: NeurIPS
+- title: NeurIPS
   year: 2022
   id: neurips22
   link: https://neurips.cc/Conferences/2022/
@@ -84,7 +84,7 @@
   sub: ML
   note: Mandatory abstract deadline on May 16, 2022
   
-  - title: ALT
+- title: ALT
   year: 2020
   id: alt20
   link: http://alt2020.algorithmiclearningtheory.org/
@@ -98,7 +98,7 @@
   hindex: 15
   sub: ML
   
-  - title: COLT
+- title: COLT
   year: 2020
   id: colt20
   link: http://www.learningtheory.org/colt2020/
