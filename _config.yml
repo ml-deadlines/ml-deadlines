@@ -2,8 +2,8 @@ title: ML Conference Deadlines
 description: ML conference deadlines
 author: TNT
 
-domain: "https://ml-deadlines.github.io/ml-deadlines"
-baseurl: "https://ml-deadlines.github.io/"
+domain: "https://ml-deadlines.github.io/"
+baseurl: "https://ml-deadlines.github.io/ml-deadlines"
 
 twitter_hashtag: machinelearning
 github_username: ml-deadlines
