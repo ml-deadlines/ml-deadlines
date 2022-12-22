@@ -3,7 +3,7 @@ description: ML conference deadlines
 author: TNT
 
 domain: "https://ml-deadlines.github.io/ml-deadlines"
-baseurl: ""
+baseurl: "https://ml-deadlines.github.io/"
 
 twitter_hashtag: machinelearning
 github_username: ml-deadlines
